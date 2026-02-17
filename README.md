@@ -17,19 +17,31 @@
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,python" />
-</p>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ### ⚙️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,bash" />
-</p>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -53,7 +65,7 @@
 
 - 🐳 Dockerized application stacks  
 - ☸️ Kubernetes (learning phase)  
-- 🤖 AI apps (RAG, Chat triggered actions)  
+- 🤖 AI apps (RAG, Chat-triggered actions)  
 - 🔌 Automation & integrations  
 - 🛍️ Shopify app ecosystem  
 
@@ -79,15 +91,16 @@
 
 <p>
 <a href="https://linkedin.com/in/usamamahmud" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Usama%20Mahmud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</p>
 
 ---
 
 ## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=MahmudE14&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MahmudE14&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---

@@ -71,22 +71,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmudE14&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MahmudE14&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>

@@ -61,16 +61,6 @@
 
 ---
 
-## 🔭 Current Focus
-
-- 🐳 Dockerized application stacks  
-- ☸️ Kubernetes (learning phase)  
-- 🤖 AI apps (RAG, Chat-triggered actions)  
-- 🔌 Automation & integrations  
-- 🛍️ Shopify app ecosystem  
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -86,7 +76,3 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=MahmudE14&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
-
----
-
-⭐️ From [MahmudE14](https://github.com/MahmudE14)

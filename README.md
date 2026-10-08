@@ -1,78 +1,33 @@
-<h1 align="center">Hi 👋, I'm Usama Mahmud</h1>
-<h3 align="center">Software Engineer • DevOps Learner • AI Explorer</h3>
-
----
-
-## 🚀 About Me
-
-- 💻 Full-stack developer with strong backend focus  
-- 🧠 Currently exploring **DevOps & AI integrations**  
-- ⚙️ Working with backup systems, infra & automation  
-- 🛠️ Contributor to production SaaS platforms  
-- 🐧 Daily Linux user  
-- 🌍 Interested in global opportunities (EU / Japan)
-
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### ⚙️ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MahmudE14&show_icons=true&theme=tokyonight" />
+  <img src="./assets/header.svg" alt="Usama Mahmud — Software Engineer" width="100%" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudE14&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudE14&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://linkedin.com/in/usamamahmud" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Usama%20Mahmud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=MahmudE14&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  Software engineer with <strong>6+ years</strong> building production SaaS applications, backend systems, and infrastructure-aware developer tooling.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-20272e?style=flat-square&logo=laravel&logoColor=E88A50" alt="Laravel" />
+  <img src="https://img.shields.io/badge/TypeScript-20272e?style=flat-square&logo=typescript&logoColor=E88A50" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20272e?style=flat-square&logo=react&logoColor=E88A50" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-20272e?style=flat-square&logo=mysql&logoColor=E88A50" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-20272e?style=flat-square&logo=docker&logoColor=E88A50" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-20272e?style=flat-square&logo=linux&logoColor=E88A50" alt="Linux" />
+</p>
+
+### 01 / Engineering
+
+`SaaS platforms` · `Backend architecture` · `Cloud integrations` · `Automation`
+
+### 02 / Exploring
+
+`AI engineering` · `Developer tools` · `Local AI` · `Distributed systems`
+
+---
+
+<sub>BUILD / EXPLORE / IMPROVE</sub>
+
+<p>
+  <a href="https://github.com/MahmudE14"><img src="https://img.shields.io/badge/GitHub-20272e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/usamamahmud"><img src="https://img.shields.io/badge/LinkedIn-20272e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
